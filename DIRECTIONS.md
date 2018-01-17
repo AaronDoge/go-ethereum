@@ -1,4 +1,4 @@
-#说明
+# 说明
 
 以太坊的官方Golang实现版本，直接从[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) fork来的，目的是用于对以太坊源码的研究。
 
