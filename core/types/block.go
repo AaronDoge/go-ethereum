@@ -136,6 +136,7 @@ type Body struct {
 }
 
 // Block represents an entire block in the Ethereum blockchain.
+// Block 代表以太坊区块链中整个区块链，由以下代码可以看出一个区块包括内容有：head、uncles、交易transactions
 type Block struct {
 	header       *Header
 	uncles       []*Header
