@@ -1,5 +1,6 @@
 // Copyright 2015 The go-ethereum Authors
 // This file is part of the go-ethereum library.
+// go-ethereum库的一部分
 //
 // The go-ethereum library is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
@@ -23,6 +24,7 @@ import (
 	"math/rand"
 	"reflect"
 
+	//引用GitHub上的开源库，本地也有同名文件，为啥要引用GitHub上的？
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto/sha3"
 )
